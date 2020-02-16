@@ -1,0 +1,6 @@
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson1\Task6\bin\Debug\Task6.exe.config
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson1\Task6\bin\Debug\Task6.exe
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson1\Task6\bin\Debug\Task6.pdb
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson1\Task6\obj\Debug\Task6.exe
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson1\Task6\obj\Debug\Task6.pdb
+E:\GEEK UNIVERSITY\GameDev\CSharp_уровень1\Lesson1\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
